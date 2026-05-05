@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+img{
+    width: 100%;
+}
+
+.section1{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.ulclass{
+    display: flex;
+    justify-content: space-between;
+    border: 5px solid red;
+    width: 600px;
+}
+.navclass{
+    display: flex;
+    justify-content: end;
+}
